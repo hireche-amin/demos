@@ -7,3 +7,4 @@ to commit on file  we use : git commit -m "in this part we write the message".
 to retriev repository history we use : git log . 
 to callback a deleted line we use : git log checkout "in this part we write the hash" . 
 to take a look about your git files status use : git status . 
+to know how many branches you have on a project , you use this command line : git branch
