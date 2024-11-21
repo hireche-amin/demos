@@ -1,4 +1,5 @@
 [Git allows us to do 'code version control]
+to reposite git on a project we use : git init . 
 to untrack a file in git you have to use this line of command : git rm --cached "file name".
 to ignore a file in git you have to create .gitignore file .
 to initiliazed git (get started) you have to use this line of command : git init . 
