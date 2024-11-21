@@ -1,0 +1,9 @@
+[Git allows us to do 'code version control]
+to untrack a file in git you have to use this line of command : git rm --cached "file name".
+to ignore a file in git you have to create .gitignore file .
+to initiliazed git (get started) you have to use this line of command : git init . 
+to add git to a file (starts tracking) you have to use this line of command : git add . 
+to commit on file  we use : git commit -m "in this part we write the message". 
+to retriev repository history we use : git log . 
+to callback a deleted line we use : git log checkout "in this part we write the hash" . 
+to take a look about your git files status use : git status . 
