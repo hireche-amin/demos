@@ -12,3 +12,4 @@ to know how many branches you have on a project , you use this command line : gi
 to add a new branch to the head we use this command line : git branch "name_of_the_new_branch".
 to switch branches we use this command line : git checkout "name_of_the_new_branch" .
 to add a new branch and in the same time you switch into it, we use this command line : git checkout -b "name_of_the_new_branch". 
+to delete a branch we use this command line : git branch -d "name_of_the_branch"
